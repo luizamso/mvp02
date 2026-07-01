@@ -1,6 +1,6 @@
 Phosgraphein front-end
 
-Esta API foi desenvolvida para a Sprint Desenvolvimento Front-End Avançado
+Desenvolvido para a Sprint Desenvolvimento Front-End Avançado
 
 ---
 Cenário
