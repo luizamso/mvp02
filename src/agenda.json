@@ -1,0 +1,121 @@
+{
+  "eventos": [
+    {
+      "id": 1,
+      "tipo": "Nova Turma",
+      "titulo": "Curso Básico de Fotografia Digital",
+      "local": "Sala de Aula",
+      "data": "15/07/2026",
+      "hora_inicio": "18:30",
+      "hora_termino": "21:30"
+    },
+    {
+      "id": 2,
+      "tipo": "Aula Prática",
+      "titulo": "Aula Prática",
+      "local": "Praia Vermelha",
+      "data": "16/07/2026",
+      "hora_inicio": "09:00",
+      "hora_termino": "12:00"
+    },
+    {
+      "id": 3,
+      "tipo": "Passeio Fotográfico",
+      "titulo": "Rolê Fotográfico",
+      "local": "Vale do Amor",
+      "data": "19/07/2026",
+      "hora_inicio": "09:00",
+      "hora_termino": "12:00"
+    },
+    {
+      "id": 4,
+      "tipo": "Nova Turma",
+      "titulo": "Curso de Iluminação com Flash",
+      "local": "Sala de Aula",
+      "data": "22/07/2026",
+      "hora_inicio": "18:30",
+      "hora_termino": "21:30"
+    },
+    {
+      "id": 5,
+      "tipo": "Aula Prática",
+      "titulo": "Aula Prática",
+      "local": "Parque Lage",
+      "data": "25/07/2026",
+      "hora_inicio": "14:30",
+      "hora_termino": "17:30"
+    },
+    {
+      "id": 6,
+      "tipo": "Passeio Fotográfico",
+      "titulo": "Rolê Fotográfico",
+      "local": "Morro da Conceição",
+      "data": "02/08/2026",
+      "hora_inicio": "14:30",
+      "hora_termino": "17:30"
+    },
+    {
+      "id": 7,
+      "tipo": "Nova Turma",
+      "titulo": "Curso de Pós-Produção com Lightroom Classic",
+      "local": "Sala de Aula",
+      "data": "10/08/2026",
+      "hora_inicio": "18:30",
+      "hora_termino": "21:30"
+    },
+    {
+      "id": 8,
+      "tipo": "Aula Prática",
+      "titulo": "Aula Prática",
+      "local": "Floresta da Tijuca",
+      "data": "15/08/2026",
+      "hora_inicio": "09:00",
+      "hora_termino": "12:00"
+    },
+    {
+      "id": 9,
+      "tipo": "Passeio Fotográfico",
+      "titulo": "Rolê Fotográfico",
+      "local": "Rolê Centro Rio",
+      "data": "23/08/2026",
+      "hora_inicio": "09:00",
+      "hora_termino": "12:00"
+    },
+    {
+      "id": 10,
+      "tipo": "Nova Turma",
+      "titulo": "Curso de Moda para Instagram",
+      "local": "Sala de Aula",
+      "data": "01/09/2026",
+      "hora_inicio": "14:30",
+      "hora_termino": "17:30"
+    },
+    {
+      "id": 11,
+      "tipo": "Aula Prática",
+      "titulo": "Aula Prática",
+      "local": "Boulevard Olímpico",
+      "data": "12/09/2026",
+      "hora_inicio": "14:30",
+      "hora_termino": "17:30"
+    },
+    {
+      "id": 12,
+      "tipo": "Passeio Fotográfico",
+      "titulo": "Rolê Fotográfico",
+      "local": "Castelo da Fiocruz",
+      "data": "20/09/2026",
+      "hora_inicio": "09:00",
+      "hora_termino": "12:00"
+    },
+    {
+      "id": 13,
+      "tipo": "Passeio Fotográfico",
+      "titulo": "Rolê Fotográfico",
+      "local": "Rolê Niterói",
+      "data": "27/09/2026",
+      "hora_inicio": "09:00",
+      "hora_termino": "12:00"
+    }
+  ]
+}

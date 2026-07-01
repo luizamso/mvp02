@@ -1,0 +1,148 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "titulo": "Curso Básico de Fotografia Digital",
+            "subtitulo": "Seu primeiro passo na jornada fotográfica",
+            "descricao": "Este curso é a introdução perfeita para quem deseja explorar o mundo da fotografia digital. Você aprenderá os conceitos essenciais da fotografia, podendo transformar essa paixão em um hobby criativo ou até mesmo em uma futura profissão.",
+            "cta": "Não perca a chance de desenvolver seu olhar fotográfico!",
+            "matricula": "R$ 130,00",
+            "investimento": [{"forma_pagamento": "cartão de crédito",
+                              "detalhe": "até 10 x, sem juros, de",
+                              "valor": "R$ 102,80"},
+                             {"forma_pagamento": "boleto bancário",
+                              "detalhe": "até 3 x, sem juros, de",
+                              "valor": "R$ 342,67"},
+                             {"forma_pagamento": "à vista",
+                              "detalhe": "com 10% de desconto",
+                              "valor": "R$ 925,00"}],
+            "image": ["https://phosgraphein.com.br/wp-content/uploads/2025/02/Instagram-site-13-1024x683.jpg"],
+            "popular": "Sim",
+            "link": "/cursos/basico",
+            "turmas": [
+                {
+                    "data_inicio": "10/08/2026",
+                    "dia_semana": "Segundas e Quartas",
+                    "turno": "Noite",
+                    "horario": "18:30 às 21:30"
+                },
+                {
+                    "data_inicio": "15/08/2026",
+                    "dia_semana": "Sábados",
+                    "turno": "Manhã",
+                    "horario": "09:00 às 12:00"
+                },
+                {
+                    "data_inicio": "19/08/2026",
+                    "dia_semana": "Terças e quintas",
+                    "turno": "Manhã",
+                    "horario": "09:00 às 12:00"
+                }
+
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Curso de Iluminação com Flash",
+            "subtitulo": "Domine a luz e transforme as suas fotos",
+            "descricao": "A iluminação com flash portátil é fundamental para obter resultados profissionais em fotografia de eventos e ensaios, seja em estúdio ou ao ar livre, mesmo sob a luz do sol. Neste curso, você aprenderá a dominar o uso do flash na sapata da câmera e técnicas avançadas para disparo remoto com rádio flash, tripés e modificadores de luz como sombrinhas e softbox.",
+            "cta": "Aprenda a dominar a iluminação e eleve seu nível na fotografia!",
+            "matricula": "R$ 200,00",
+            "investimento": [{"forma_pagamento": "cartão de crédito",
+                              "detalhe": "até 10 x, sem juros, de",
+                              "valor": "R$ 102,80"},
+                             {"forma_pagamento": "boleto bancário",
+                              "detalhe": "até 3 x, sem juros, de",
+                              "valor": "R$ 342,67"},
+                             {"forma_pagamento": "à vista",
+                              "detalhe": "com 10% de desconto",
+                              "valor": "R$ 925,00"}],
+            "image": ["https://phosgraphein.com.br/wp-content/uploads/2025/02/Site_Flash_01-1024x683.jpg"],
+            "popular": "Sim",
+            "link": "/cursos/flash",
+            "turmas": [
+                {
+                    "data_inicio": "10/08/2026",
+                    "dia_semana": "Segundas e Quartas",
+                    "turno": "Noite",
+                    "horario": "19:00 às 21:30"
+                },
+                {
+                    "data_inicio": "15/08/2026",
+                    "dia_semana": "Sábados",
+                    "turno": "Manhã",
+                    "horario": "09:00 às 13:00"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Pós-produção com Adobe Lightroom Classic",
+            "subtitulo": "Domine a Edição e o Tratamento de Imagens",
+            "descricao": "O Lightroom Classic é a ferramenta essencial para fotógrafos que desejam organizar, editar e tratar imagens com qualidade e eficiência. Neste curso, você aprenderá as melhores técnicas de pós-produção, tornando seu fluxo de trabalho mais rápido e suas fotos ainda mais incríveis.",
+            "cta": "Aprimore suas habilidades de edição e domine o Lightroom Classic para transformar suas fotos!",
+            "matricula": "R$ 130,00",
+            "investimento": [{"forma_pagamento": "cartão de crédito",
+                              "detalhe": "até 10 x, sem juros, de",
+                              "valor": "R$ 90,00"},
+                             {"forma_pagamento": "boleto bancário",
+                              "detalhe": "até 3 x, sem juros, de",
+                              "valor": "R$ 300,00"},
+                             {"forma_pagamento": "à vista",
+                              "detalhe": "com 10% de desconto",
+                              "valor": "R$ 810,00"}],
+            "image": ["https://phosgraphein.com.br/wp-content/uploads/2025/02/Instagram-site-11-1024x683.jpg"],
+            "popular": "Sim",
+            "link": "/cursos/lightroom",
+            "turmas": [
+                {
+                    "data_inicio": "10/08/2026",
+                    "dia_semana": "Segundas e Quartas",
+                    "turno": "Noite",
+                    "horario": "19:00 às 21:30"
+                },
+                {
+                    "data_inicio": "15/08/2026",
+                    "dia_semana": "Sábados",
+                    "turno": "Manhã",
+                    "horario": "09:00 às 13:00"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Curso de Fotografia de Moda para Instagram",
+            "subtitulo": "Fotografe com estilo. Influencie com imagem",
+            "descricao": "Um curso presencial de 36 horas (12 aulas), com 2 sessões práticas em estúdio e 1 sessão prática ao ar livre com modelos profissionais. Ideal para quem quer criar conteúdos poderosos para marcas de moda nas redes sociais.",
+            "cta": "Pronto para mergulhar na moda e redes sociais?",
+            "matricula": "R$ 200,00",
+            "investimento": [{"forma_pagamento": "cartão de crédito",
+                              "detalhe": "até 10 x, sem juros, de",
+                              "valor": "R$ 102,80"},
+                             {"forma_pagamento": "boleto bancário",
+                              "detalhe": "até 3 x, sem juros, de",
+                              "valor": "R$ 342,67"},
+                             {"forma_pagamento": "à vista",
+                              "detalhe": "com 10% de desconto",
+                              "valor": "R$ 925,00"}],
+            "image": ["https://phosgraphein.com.br/wp-content/uploads/2025/05/IMG_8651-1-1024x683.jpg"],
+            "popular": "Não",
+            "link": "/cursos/moda",
+            "turmas": [
+                {
+                    "data_inicio": "10/08/2026",
+                    "dia_semana": "Segundas e Quartas",
+                    "turno": "Noite",
+                    "horario": "19:00 às 21:30"
+                },
+                {
+                    "data_inicio": "15/08/2026",
+                    "dia_semana": "Sábados",
+                    "turno": "Manhã",
+                    "horario": "09:00 às 13:00"
+                }
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,98 @@
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+  width: 100%;
+  margin-top: 2rem;
+}
+
+
+.card {
+  background-color: #ffffff; 
+  border-radius: 16px;       
+  overflow: hidden;
+  padding: 1.5rem;           
+  border: none;              
+  
+  display: flex;
+  flex-direction: column;
+  height: 100%; 
+  box-sizing: border-box;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05), 0px 4px 8px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1), 0px 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.card-center {  
+  text-align: center;
+}
+
+.card-right {  
+  text-align: right;
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.card-cta
+{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  flex-grow: 1;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.8rem;
+  margin-bottom: 0.8rem;
+}
+
+.card-subtitulo {
+    align-items: center;
+}
+
+.card-destaque {
+    font-size: 1.5rem;
+}
+
+.card-valor {
+    font-size: 3rem;
+}
+
+.icone-react {
+  font-size: 3rem;
+  vertical-align: middle;
+  margin-right: 1rem;
+}
+
+.agenda-mes-secao {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.agenda-mes-titulo {
+  
+  font-size: 1.8rem;
+  border-bottom: 2px solid #949494; 
+  padding-bottom: 10px;
+  margin-bottom: 1.5rem;
+  /*text-transform: capitalize;*/
+}
+
+.agenda-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
