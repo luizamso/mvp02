@@ -18,21 +18,23 @@
                               "valor": "R$ 925,00"}],
             "image": ["https://phosgraphein.com.br/wp-content/uploads/2025/02/Instagram-site-13-1024x683.jpg"],
             "popular": "Sim",
-            "link": "/cursos/basico",
             "turmas": [
                 {
+                    "codigo": "BF-2026.01",
                     "data_inicio": "10/08/2026",
                     "dia_semana": "Segundas e Quartas",
                     "turno": "Noite",
                     "horario": "18:30 às 21:30"
                 },
                 {
+                    "codigo": "BF-2026.02",
                     "data_inicio": "15/08/2026",
                     "dia_semana": "Sábados",
                     "turno": "Manhã",
                     "horario": "09:00 às 12:00"
                 },
                 {
+                    "codigo": "BF-2026.03",
                     "data_inicio": "19/08/2026",
                     "dia_semana": "Terças e quintas",
                     "turno": "Manhã",
@@ -59,19 +61,20 @@
                               "valor": "R$ 925,00"}],
             "image": ["https://phosgraphein.com.br/wp-content/uploads/2025/02/Site_Flash_01-1024x683.jpg"],
             "popular": "Sim",
-            "link": "/cursos/flash",
             "turmas": [
                 {
-                    "data_inicio": "10/08/2026",
-                    "dia_semana": "Segundas e Quartas",
-                    "turno": "Noite",
-                    "horario": "19:00 às 21:30"
+                    "codigo": "SL-2026.01",
+                    "data_inicio": "11/08/2026",
+                    "dia_semana": "Terças e Quintas",
+                    "turno": "Manhã",
+                    "horario": "9:00 às 12:00"
                 },
                 {
-                    "data_inicio": "15/08/2026",
-                    "dia_semana": "Sábados",
-                    "turno": "Manhã",
-                    "horario": "09:00 às 13:00"
+                    "codigo": "SL-2026.02",
+                    "data_inicio": "25/08/2026",
+                    "dia_semana": "Quartas",
+                    "turno": "Noite",
+                    "horario": "18:00 às 21:00"
                 }
             ]
         },
@@ -93,17 +96,18 @@
                               "valor": "R$ 810,00"}],
             "image": ["https://phosgraphein.com.br/wp-content/uploads/2025/02/Instagram-site-11-1024x683.jpg"],
             "popular": "Sim",
-            "link": "/cursos/lightroom",
             "turmas": [
                 {
+                    "codigo": "LR-2026.01",
                     "data_inicio": "10/08/2026",
                     "dia_semana": "Segundas e Quartas",
-                    "turno": "Noite",
-                    "horario": "19:00 às 21:30"
+                    "turno": "Tarde",
+                    "horario": "14:00 às 17:00"
                 },
                 {
-                    "data_inicio": "15/08/2026",
-                    "dia_semana": "Sábados",
+                    "codigo": "LR-2026.02",
+                    "data_inicio": "01/09/2026",
+                    "dia_semana": "Quinta-feira",
                     "turno": "Manhã",
                     "horario": "09:00 às 13:00"
                 }
@@ -127,21 +131,7 @@
                               "valor": "R$ 925,00"}],
             "image": ["https://phosgraphein.com.br/wp-content/uploads/2025/05/IMG_8651-1-1024x683.jpg"],
             "popular": "Não",
-            "link": "/cursos/moda",
-            "turmas": [
-                {
-                    "data_inicio": "10/08/2026",
-                    "dia_semana": "Segundas e Quartas",
-                    "turno": "Noite",
-                    "horario": "19:00 às 21:30"
-                },
-                {
-                    "data_inicio": "15/08/2026",
-                    "dia_semana": "Sábados",
-                    "turno": "Manhã",
-                    "horario": "09:00 às 13:00"
-                }
-            ]
+            "turmas": []
         }
 
     ]

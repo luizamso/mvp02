@@ -1,14 +1,25 @@
-import { useLocation } from 'react-router-dom';
+import { useParams, useLocation } from 'react-router-dom';
 import { useState } from "react"
 import CardsTurmas from "../components/CardsTurmas.js"
 import { FaCreditCard, FaBarcode, FaCoins } from 'react-icons/fa';
+import Erro404 from './erro404.js';
+import Cursos from '../cursos.json';
 
 
 export default function CursoDetalhe() {
+    const {id} = useParams()
     let { state } = useLocation();
-    const curso = state.c;
+
+    const curso = state?.c || Cursos.cursos.find(c => c.id.toString() === id);
+
+    if (!curso) {
+        return <Erro404 />;
+    }
+
+    
     const urlImagem = curso.image && curso.image[0];
-    const [turmasList] = useState(curso.turmas || []);
+    const turmasList = curso.turmas || [];
+    
 
     return (
         <div className="curso-detalhe-pagina">
