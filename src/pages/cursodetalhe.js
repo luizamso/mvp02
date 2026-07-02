@@ -1,5 +1,4 @@
 import { useParams, useLocation } from 'react-router-dom';
-import { useState } from "react"
 import CardsTurmas from "../components/CardsTurmas.js"
 import { FaCreditCard, FaBarcode, FaCoins } from 'react-icons/fa';
 import Erro404 from './erro404.js';
